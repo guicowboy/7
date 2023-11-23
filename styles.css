@@ -1,0 +1,20 @@
+@import url(Styles/header.css);
+@import url(styles/baner.css);
+@import url(styles/carrocel.css);
+
+:root {
+    --cordefundo:#EBECEE;
+    --branco: #ffffff; 
+    --laranja: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --fonte-principal: "Popooins";
+}
+
+body {
+    background-color: var(--cordefundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+    
